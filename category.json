@@ -1,13 +1,16 @@
 [
     {
+        "icon": "fa-pizza-slice",
         "id": 1,
         "name": "pizza"
     },
     {
+        "icon": "fa-burger",
         "id": 2,
         "name": "burger"
     },
     {
+        "icon": "fa-tags",
         "id": 3,
         "name": "offers"
     }
