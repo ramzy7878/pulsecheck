@@ -1,0 +1,32 @@
+[
+    {
+        "icon": "fa-pizza-slice",
+        "id": 1,
+        "name": "بيتزا"
+    },
+    {
+        "icon": "fa-burger",
+        "id": 2,
+        "name": "برجر"
+    },
+    {
+        "icon": "fa-tags",
+        "id": 3,
+        "name": "العروض"
+    },
+    {
+        "icon": "fa-hotdog",
+        "id": 4,
+        "name": "السندوتشات"
+    },
+    {
+        "icon": "fa-mortar-pestle",
+        "id": 5,
+        "name": "الكريب"
+    },
+    {
+        "icon": "fa-drumstick-bite",
+        "id": 6,
+        "name": "وجبات"
+    }
+]

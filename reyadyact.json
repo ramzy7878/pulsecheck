@@ -1,0 +1,34 @@
+[
+    {
+        "activitydetails": "تفاصي اللعبه ",
+        "activitytitle": "tennis",
+        "actpricehaya": "20",
+        "actpricekharegy": "40",
+        "actpricemontaseb": "30",
+        "coachname": "محمد إسماعيل",
+        "coachphone": "01223456877",
+        "days": "الاربعاء و الخميس",
+        "icon": "fa-pizza-slice",
+        "id": 1,
+        "image": "https://raw.githubusercontent.com/ramzy7878/pulsecheck/refs/heads/main/tennis-770x513.jpg",
+        "notes": "notes",
+        "sextype": "male - female",
+        "times": "2:00PM to 3:00Pm"
+    },
+    {
+        "activitydetails": "تفاصي اللعبه ",
+        "activitytitle": "football",
+        "actpricehaya": "22",
+        "actpricekharegy": "44",
+        "actpricemontaseb": "33",
+        "coachname": "محمد إسماعيل",
+        "coachphone": "01223456877",
+        "days": "الاربعاء و الخميس",
+        "icon": "fa-pizza-slice",
+        "id": 2,
+        "image": "https://raw.githubusercontent.com/ramzy7878/pulsecheck/refs/heads/main/training-in-a-football-academy-in-dubai-such-as-LaLiga-Academy-Dubai-can-enhance-your-football-skills.png",
+        "notes": "notes",
+        "sextype": "male - female",
+        "times": "2:00PM to 3:00Pm"
+    }
+]
