@@ -1,0 +1,34 @@
+[
+    {
+        "activitydetails": "details",
+        "activitytitle": "yakt title",
+        "actpricehaya": "22",
+        "actpricekharegy": "99",
+        "actpricemontaseb": "88",
+        "coachname": "coach",
+        "coachphone": "012254558",
+        "days": "dayss",
+        "icon": "fa-pizza-slice",
+        "id": 1,
+        "image": "https://raw.githubusercontent.com/ramzy7878/pulsecheck/refs/heads/main/480935254_1131207298702051_6255809860328689674_n.jpg",
+        "notes": "note",
+        "sextype": "male- female",
+        "times": "from - to"
+    },
+    {
+        "activitydetails": "details",
+        "activitytitle": "rowing",
+        "actpricehaya": "22",
+        "actpricekharegy": "99",
+        "actpricemontaseb": "88",
+        "coachname": "coach",
+        "coachphone": "012254558",
+        "days": "dayss",
+        "icon": "fa-pizza-slice",
+        "id": 2,
+        "image": "https://raw.githubusercontent.com/ramzy7878/pulsecheck/refs/heads/main/481024133_1131209395368508_5590242695409778363_n.jpg",
+        "notes": "note",
+        "sextype": "male- female",
+        "times": "from - to"
+    }
+]
