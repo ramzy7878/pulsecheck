@@ -93,7 +93,7 @@
         "location": "النادي الإجتماعي",
         "mealtitle": "فراخ إستربس",
         "montasefprice": 180.0,
-        "notes": null
+        "notes": ""
     },
     {
         "categoryid": 1,
@@ -105,7 +105,7 @@
         "location": "النادي الإجتماعي",
         "mealtitle": "لحم مفروم",
         "montasefprice": 170.0,
-        "notes": null
+        "notes": ""
     },
     {
         "categoryid": 1,
@@ -117,7 +117,7 @@
         "location": "النادي الإجتماعي",
         "mealtitle": "سجق",
         "montasefprice": 160.0,
-        "notes": null
+        "notes": ""
     },
     {
         "categoryid": 1,
@@ -129,7 +129,7 @@
         "location": "النادي الإجتماعي",
         "mealtitle": "سوسيس",
         "montasefprice": 160.0,
-        "notes": null
+        "notes": ""
     },
     {
         "categoryid": 1,
@@ -141,7 +141,7 @@
         "location": "النادي الإجتماعي",
         "mealtitle": "بسطرمة",
         "montasefprice": 170.0,
-        "notes": null
+        "notes": ""
     },
     {
         "categoryid": 1,
@@ -153,7 +153,7 @@
         "location": "النادي الإجتماعي",
         "mealtitle": "تونة",
         "montasefprice": 200.0,
-        "notes": null
+        "notes": ""
     },
     {
         "categoryid": 1,
@@ -165,11 +165,11 @@
         "location": "النادي الإجتماعي",
         "mealtitle": "(كانز ستار و باكت بطاطس )",
         "montasefprice": 55.0,
-        "notes": null
+        "notes": ""
     },
     {
         "categoryid": 4,
-        "describtion": null,
+        "describtion": " ",
         "hayaaprice": 80.0,
         "id": 16,
         "image": "https://raw.githubusercontent.com/ramzy7878/pulsecheck/refs/heads/main/classicburger.jpg",
@@ -181,7 +181,7 @@
     },
     {
         "categoryid": 4,
-        "describtion": null,
+        "describtion": " ",
         "hayaaprice": 85.0,
         "id": 17,
         "image": "https://raw.githubusercontent.com/ramzy7878/pulsecheck/refs/heads/main/original-smash-burger.jpg",
@@ -193,7 +193,7 @@
     },
     {
         "categoryid": 4,
-        "describtion": null,
+        "describtion": " ",
         "hayaaprice": 90.0,
         "id": 18,
         "image": "https://raw.githubusercontent.com/ramzy7878/pulsecheck/refs/heads/main/cheezbuger.jpg",
@@ -205,7 +205,7 @@
     },
     {
         "categoryid": 4,
-        "describtion": null,
+        "describtion": "  ",
         "hayaaprice": 100.0,
         "id": 19,
         "image": "https://raw.githubusercontent.com/ramzy7878/pulsecheck/refs/heads/main/smoked-burger_(1).jpg",
@@ -217,7 +217,7 @@
     },
     {
         "categoryid": 4,
-        "describtion": null,
+        "describtion": " ",
         "hayaaprice": 90.0,
         "id": 20,
         "image": "https://raw.githubusercontent.com/ramzy7878/pulsecheck/refs/heads/main/korden.jpg",
@@ -229,7 +229,7 @@
     },
     {
         "categoryid": 4,
-        "describtion": null,
+        "describtion": " ",
         "hayaaprice": 70.0,
         "id": 21,
         "image": "https://raw.githubusercontent.com/ramzy7878/pulsecheck/refs/heads/main/zinger.jpg",
@@ -241,7 +241,7 @@
     },
     {
         "categoryid": 4,
-        "describtion": null,
+        "describtion": " ",
         "hayaaprice": 70.0,
         "id": 22,
         "image": "https://raw.githubusercontent.com/ramzy7878/pulsecheck/refs/heads/main/stripschiken.jpg",
@@ -253,7 +253,7 @@
     },
     {
         "categoryid": 4,
-        "describtion": null,
+        "describtion": " ",
         "hayaaprice": 45.0,
         "id": 23,
         "image": "https://raw.githubusercontent.com/ramzy7878/pulsecheck/refs/heads/main/Untitled11.png",
@@ -265,7 +265,7 @@
     },
     {
         "categoryid": 5,
-        "describtion": "",
+        "describtion": " ",
         "hayaaprice": 55.0,
         "id": 24,
         "image": "https://raw.githubusercontent.com/ramzy7878/pulsecheck/refs/heads/main/crepbatates.jpg",
@@ -273,11 +273,11 @@
         "location": "النادي الإجتماعي",
         "mealtitle": "بطاطس",
         "montasefprice": 65.0,
-        "notes": null
+        "notes": ""
     },
     {
         "categoryid": 5,
-        "describtion": "بسطرمة مع ميكس جبن",
+        "describtion": " ",
         "hayaaprice": 95.0,
         "id": 25,
         "image": "https://raw.githubusercontent.com/ramzy7878/pulsecheck/refs/heads/main/crepe.jpg",
@@ -285,7 +285,7 @@
         "location": "النادي الإجتماعي",
         "mealtitle": "بسطرمة مع ميكس جبن",
         "montasefprice": 105.0,
-        "notes": null
+        "notes": ""
     },
     {
         "categoryid": 5,
@@ -297,11 +297,11 @@
         "location": "النادي الإجتماعي",
         "mealtitle": "سوسيس مع ميكس جبن",
         "montasefprice": 105.0,
-        "notes": null
+        "notes": ""
     },
     {
         "categoryid": 5,
-        "describtion": null,
+        "describtion": " ",
         "hayaaprice": 95.0,
         "id": 27,
         "image": "https://raw.githubusercontent.com/ramzy7878/pulsecheck/refs/heads/main/ea74bab2-2d1b-4f5a-9fc0-9f0893f47ceb.jpg",
@@ -309,11 +309,11 @@
         "location": "النادي الإجتماعي",
         "mealtitle": "سجق",
         "montasefprice": 105.0,
-        "notes": null
+        "notes": ""
     },
     {
         "categoryid": 5,
-        "describtion": null,
+        "describtion": " ",
         "hayaaprice": 115.0,
         "id": 28,
         "image": "https://raw.githubusercontent.com/ramzy7878/pulsecheck/refs/heads/main/1716418310image.jpg",
@@ -321,11 +321,11 @@
         "location": "النادي الإجتماعي",
         "mealtitle": "كفتة جريل",
         "montasefprice": 125.0,
-        "notes": null
+        "notes": ""
     },
     {
         "categoryid": 5,
-        "describtion": null,
+        "describtion": " ",
         "hayaaprice": 110.0,
         "id": 29,
         "image": "https://raw.githubusercontent.com/ramzy7878/pulsecheck/refs/heads/main/696.jpg",
@@ -333,11 +333,11 @@
         "location": "النادي الإجتماعي",
         "mealtitle": "فراخ إستربس",
         "montasefprice": 120.0,
-        "notes": null
+        "notes": ""
     },
     {
         "categoryid": 5,
-        "describtion": null,
+        "describtion": "  ",
         "hayaaprice": 110.0,
         "id": 30,
         "image": "https://raw.githubusercontent.com/ramzy7878/pulsecheck/refs/heads/main/558996700_802877069343182_1069636940821570428_n.jpg",
@@ -345,11 +345,11 @@
         "location": "النادي الإجتماعي",
         "mealtitle": "زنجر",
         "montasefprice": 120.0,
-        "notes": null
+        "notes": ""
     },
     {
         "categoryid": 5,
-        "describtion": null,
+        "describtion": " ",
         "hayaaprice": 110.0,
         "id": 31,
         "image": "https://raw.githubusercontent.com/ramzy7878/pulsecheck/refs/heads/main/484151766_700867962277282_6511649835004943043_n.jpg",
@@ -357,11 +357,11 @@
         "location": "النادي الإجتماعي",
         "mealtitle": "كوردن بلو",
         "montasefprice": 120.0,
-        "notes": null
+        "notes": ""
     },
     {
         "categoryid": 5,
-        "describtion": null,
+        "describtion": " ",
         "hayaaprice": 110.0,
         "id": 32,
         "image": "https://raw.githubusercontent.com/ramzy7878/pulsecheck/refs/heads/main/484421737_1025419059637938_2162492893728254393_n.jpg",
@@ -369,11 +369,11 @@
         "location": "النادي الإجتماعي",
         "mealtitle": "شبش طاووق",
         "montasefprice": 120.0,
-        "notes": null
+        "notes": ""
     },
     {
         "categoryid": 5,
-        "describtion": null,
+        "describtion": " ",
         "hayaaprice": 110.0,
         "id": 33,
         "image": "https://raw.githubusercontent.com/ramzy7878/pulsecheck/refs/heads/main/136994853_3230708853695860_5458749927887654121_n.jpg",
@@ -381,11 +381,11 @@
         "location": "النادي الإجتماعي",
         "mealtitle": "فاهيتا",
         "montasefprice": 120.0,
-        "notes": null
+        "notes": ""
     },
     {
         "categoryid": 5,
-        "describtion": null,
+        "describtion": " ",
         "hayaaprice": 45.0,
         "id": 34,
         "image": "https://raw.githubusercontent.com/ramzy7878/pulsecheck/refs/heads/main/Untitled11.png",
@@ -393,11 +393,11 @@
         "location": "النادي الإجتماعي",
         "mealtitle": "(كانز ستار و باكت بطاطس )",
         "montasefprice": 55.0,
-        "notes": null
+        "notes": ""
     },
     {
         "categoryid": 6,
-        "describtion": null,
+        "describtion": " ",
         "hayaaprice": 100.0,
         "id": 35,
         "image": "https://raw.githubusercontent.com/ramzy7878/pulsecheck/refs/heads/main/471672311_602040265692056_6856781731678963494_n.jpg",
@@ -405,11 +405,11 @@
         "location": "النادي الإجتماعي",
         "mealtitle": "كيلو محشي كرنب",
         "montasefprice": 110.0,
-        "notes": null
+        "notes": ""
     },
     {
         "categoryid": 6,
-        "describtion": null,
+        "describtion": " ",
         "hayaaprice": 120.0,
         "id": 36,
         "image": "https://raw.githubusercontent.com/ramzy7878/pulsecheck/refs/heads/main/120611829_164326688659045_1348153360562657521_n.jpg",
@@ -417,11 +417,11 @@
         "location": "النادي الإجتماعي",
         "mealtitle": "كيلو محشي ورق عنب",
         "montasefprice": 130.0,
-        "notes": null
+        "notes": ""
     },
     {
         "categoryid": 6,
-        "describtion": null,
+        "describtion": " ",
         "hayaaprice": 100.0,
         "id": 37,
         "image": "https://raw.githubusercontent.com/ramzy7878/pulsecheck/refs/heads/main/518411402_122187615002334438_6190666520710395283_n.jpg",
@@ -429,11 +429,11 @@
         "location": "النادي الإجتماعي",
         "mealtitle": "كيلو محشي مشكل",
         "montasefprice": 110.0,
-        "notes": null
+        "notes": ""
     },
     {
         "categoryid": 6,
-        "describtion": null,
+        "describtion": " ",
         "hayaaprice": 55.0,
         "id": 38,
         "image": "https://raw.githubusercontent.com/ramzy7878/pulsecheck/refs/heads/main/522.jpg",
@@ -441,11 +441,11 @@
         "location": "النادي الإجتماعي",
         "mealtitle": "طبق سمبوسة جبن ( 5 قطع )",
         "montasefprice": 60.0,
-        "notes": null
+        "notes": ""
     },
     {
         "categoryid": 6,
-        "describtion": null,
+        "describtion": "  ",
         "hayaaprice": 80.0,
         "id": 39,
         "image": "https://raw.githubusercontent.com/ramzy7878/pulsecheck/refs/heads/main/522.jpg",
@@ -453,6 +453,6 @@
         "location": "النادي الإجتماعي",
         "mealtitle": "طبق سمبوسة لحم ( 5 قطع )",
         "montasefprice": 85.0,
-        "notes": null
+        "notes": ""
     }
 ]
