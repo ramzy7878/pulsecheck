@@ -2,31 +2,37 @@
     {
         "icon": "fa-pizza-slice",
         "id": 1,
-        "name": "بيتزا"
+        "name": "بيتزا",
+        "undericon": "Night mood"
     },
     {
         "icon": "fa-burger",
         "id": 2,
-        "name": "برجر"
+        "name": "برجر",
+        "undericon": "Night mood"
     },
     {
         "icon": "fa-tags",
         "id": 3,
-        "name": "العروض"
+        "name": "العروض",
+        "undericon": "Hot Deals"
     },
     {
         "icon": "fa-hotdog",
         "id": 4,
-        "name": "السندوتشات"
+        "name": "السندوتشات",
+        "undericon": "Delicious"
     },
     {
         "icon": "fa-mortar-pestle",
         "id": 5,
-        "name": "الكريب"
+        "name": "الكريب",
+        "undericon": "Yummy"
     },
     {
         "icon": "fa-drumstick-bite",
         "id": 6,
-        "name": "وجبات"
+        "name": "وجبات",
+        "undericon": "As you Wish"
     }
 ]
