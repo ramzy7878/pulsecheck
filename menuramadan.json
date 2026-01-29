@@ -1,0 +1,54 @@
+[
+    {
+        "categoryid": 1,
+        "describtion": null,
+        "hayaaprice": null,
+        "icon": null,
+        "id": 1,
+        "image": null,
+        "kharegyprice": null,
+        "location": null,
+        "mealtitle": "mmm",
+        "montasefprice": null,
+        "notes": null
+    },
+    {
+        "categoryid": 2,
+        "describtion": null,
+        "hayaaprice": null,
+        "icon": null,
+        "id": 2,
+        "image": null,
+        "kharegyprice": null,
+        "location": null,
+        "mealtitle": "yyy",
+        "montasefprice": null,
+        "notes": null
+    },
+    {
+        "categoryid": 1,
+        "describtion": null,
+        "hayaaprice": "",
+        "icon": null,
+        "id": 3,
+        "image": null,
+        "kharegyprice": null,
+        "location": null,
+        "mealtitle": "bbb",
+        "montasefprice": null,
+        "notes": null
+    },
+    {
+        "categoryid": 2,
+        "describtion": null,
+        "hayaaprice": null,
+        "icon": null,
+        "id": 4,
+        "image": null,
+        "kharegyprice": null,
+        "location": null,
+        "mealtitle": "ddd",
+        "montasefprice": null,
+        "notes": null
+    }
+]
