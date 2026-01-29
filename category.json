@@ -34,5 +34,11 @@
         "id": 6,
         "name": "وجبات",
         "undericon": "As you Wish"
+    },
+    {
+        "icon": "fa-star-and-crescent",
+        "id": 7,
+        "name": "رمضان 2026",
+        "undericon": "Ramadan Kariem"
     }
 ]
