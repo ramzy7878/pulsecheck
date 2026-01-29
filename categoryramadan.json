@@ -1,14 +1,80 @@
 [
     {
-        "icon": "fa-pizza-slice",
+        "icon": "fa-star-and-crescent",
         "id": 1,
-        "name": "est",
-        "undericon": "nn"
+        "name": "وجبات فاخرة",
+        "undericon": "ramadan kareiem"
     },
     {
-        "icon": "fa-pizza-slice",
+        "icon": "fa-star-and-crescent",
         "id": 2,
-        "name": "test2",
-        "undericon": "nnnnn"
+        "name": "وجبات عادية",
+        "undericon": "ramadan kareiem"
+    },
+    {
+        "icon": "fa-star-and-crescent",
+        "id": 3,
+        "name": "وجبات المضغوط",
+        "undericon": "ramadan kareiem"
+    },
+    {
+        "icon": "fa-star-and-crescent",
+        "id": 4,
+        "name": "وجبات التوفير",
+        "undericon": "ramadan kareiem"
+    },
+    {
+        "icon": "fa-star-and-crescent",
+        "id": 5,
+        "name": "صواني العائلة",
+        "undericon": "ramadan kareiem"
+    },
+    {
+        "icon": "fa-star-and-crescent",
+        "id": 6,
+        "name": "صواني الصحاب",
+        "undericon": "ramadan kareiem"
+    },
+    {
+        "icon": "fa-star-and-crescent",
+        "id": 7,
+        "name": "الميكسات",
+        "undericon": "ramadan kareiem"
+    },
+    {
+        "icon": "fa-star-and-crescent",
+        "id": 8,
+        "name": "المشويات",
+        "undericon": "ramadan kareiem"
+    },
+    {
+        "icon": "fa-star-and-crescent",
+        "id": 9,
+        "name": "المشروبات",
+        "undericon": "ramadan kareiem"
+    },
+    {
+        "icon": "fa-star-and-crescent",
+        "id": 10,
+        "name": "الطواجن",
+        "undericon": "ramadan kareiem"
+    },
+    {
+        "icon": "fa-star-and-crescent",
+        "id": 11,
+        "name": "السلطات",
+        "undericon": "ramadan kareiem"
+    },
+    {
+        "icon": "fa-star-and-crescent",
+        "id": 12,
+        "name": "الباستا",
+        "undericon": "ramadan kareiem"
+    },
+    {
+        "icon": "fa-star-and-crescent",
+        "id": 13,
+        "name": "الإضافات",
+        "undericon": "ramadan kareiem"
     }
 ]
