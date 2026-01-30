@@ -1,0 +1,26 @@
+[
+    {
+        "icon": "fa-hotdog",
+        "id": 1,
+        "name": "N_CC",
+        "undericon": null
+    },
+    {
+        "icon": "fa-hotdog",
+        "id": 2,
+        "name": "NCA_I",
+        "undericon": null
+    },
+    {
+        "icon": "fa-hotdog",
+        "id": 3,
+        "name": "NCA",
+        "undericon": null
+    },
+    {
+        "icon": "fa-hotdog",
+        "id": 4,
+        "name": "PP_Prs_In Progress",
+        "undericon": null
+    }
+]
