@@ -1,0 +1,233 @@
+[
+    {
+        "ITEMCODE": "S.5999.PP02.0237",
+        "Shortdescription": "BELT VULCANIZER HEATING PLATEN, 400V/1.51A/1.05KW, SIZE:300�400�60, MODEL:RECTANGULAR 90.0?, SYNERGY INDUSTRIAL SERVICES",
+        "field4": null,
+        "field5": null,
+        "id": 1
+    },
+    {
+        "ITEMCODE": "S.5999.PP02.0238",
+        "Shortdescription": "BELT VULCANIZER HEATING PLATEN, 400V/4.11A/2.85KW, SIZE:1000�300�60, MODEL:RECTANGULAR 90.0?, SYNERGY INDUSTRIAL SERVICES",
+        "field4": null,
+        "field5": null,
+        "id": 2
+    },
+    {
+        "ITEMCODE": "S.5999.PP02.0239",
+        "Shortdescription": "BELT VULCANIZER C-CLAMP FRAME, 250KG/CM2, SIZE:1500�600�140, MODEL:PH180/1, SYNERGY INDUSTRIAL SERVICES",
+        "field4": null,
+        "field5": null,
+        "id": 3
+    },
+    {
+        "ITEMCODE": "S.5960.0000.0001",
+        "Shortdescription": "MAGNETIC VIBRATOR, 400V/6.8A/50HZ, 3000/MIN, TYPE:MVE50-4, AVITEQ",
+        "field4": null,
+        "field5": null,
+        "id": 4
+    },
+    {
+        "ITEMCODE": "S.5999.S100.0010",
+        "Shortdescription": "MAGNETIC VIBRATOR, 380-420V/4A/50HZ, 3000/MIN, TYPE:MVD50-4, AVITEQ",
+        "field4": null,
+        "field5": null,
+        "id": 5
+    },
+    {
+        "ITEMCODE": "S.5999.PP03.0894",
+        "Shortdescription": "MAGNETIC VIBRATOR, 380-420V/6.2A/50HZ, 3000/MIN, TYPE:eMVE50-4-01, AVITEQ",
+        "field4": null,
+        "field5": null,
+        "id": 6
+    },
+    {
+        "ITEMCODE": "S.5999.PP03.0893",
+        "Shortdescription": "MAGNETIC VIBRATOR, 380-420V/2.1A/50HZ, 3000/MIN, TYPE:MVE50-4, AVITEQ",
+        "field4": null,
+        "field5": null,
+        "id": 7
+    },
+    {
+        "ITEMCODE": "S.3419.PP02.0938",
+        "Shortdescription": "REACTION VESSEL, INCONEL, ITEM NO:AZ008_VFT-020",
+        "field4": null,
+        "field5": null,
+        "id": 8
+    },
+    {
+        "ITEMCODE": "S.3419.PP02.0940",
+        "Shortdescription": "REACTION VESSEL, INCONEL, ITEM NO:AZ009_VFR-020",
+        "field4": null,
+        "field5": null,
+        "id": 9
+    },
+    {
+        "ITEMCODE": "S.3419.PP02.0941",
+        "Shortdescription": "REACTION VESSEL PART NO. SI_REV_LIN_11257, ITEM NO:AZ10_TDI-010",
+        "field4": null,
+        "field5": null,
+        "id": 10
+    },
+    {
+        "ITEMCODE": "S.0000.PP01.0026",
+        "Shortdescription": "Flange Radial Insert Ball Bearing / Flange Housing Unit, UCF209 (UC209/F209) - Shaft: 45 mm, 137�137 mm, VAG",
+        "field4": null,
+        "field5": null,
+        "id": 11
+    },
+    {
+        "ITEMCODE": "S.0000.PP01.0027",
+        "Shortdescription": "Flange Radial Insert Ball Bearing / Flange Housing Unit, UCF211 (UC211/F211) - Shaft: 55 mm, 162�162 mm, VAG",
+        "field4": null,
+        "field5": null,
+        "id": 12
+    },
+    {
+        "ITEMCODE": "S.0000.PP01.0028",
+        "Shortdescription": "Flange Radial Insert Ball Bearing / Flange Housing Unit, UCF214 (UC214/F214) - Shaft: 70 mm, 193�193 mm, VAG",
+        "field4": null,
+        "field5": null,
+        "id": 13
+    },
+    {
+        "ITEMCODE": "S.0000.PP01.0029",
+        "Shortdescription": "shaft coupling rigid, OD 105 mm,  Bore 45 mm with 4 � keyways 14�30 mm, spaced 90� apart, 10 HOLES *9MM .COPPER",
+        "field4": null,
+        "field5": null,
+        "id": 14
+    },
+    {
+        "ITEMCODE": "S.0000.PP01.0030",
+        "Shortdescription": "shaft coupling rigid, OD 155 mm,  Bore 55 mm with 4 � keyways 22�30 mm, spaced 90� apart, 12 HOLES *9MM .COPPER",
+        "field4": null,
+        "field5": null,
+        "id": 15
+    },
+    {
+        "ITEMCODE": "S.0000.PP01.0031",
+        "Shortdescription": "shaft coupling rigid, OD 155 mm,  Bore 75 mm with 4 � keyways 34�30 mm, spaced 90� apart, 12 HOLES *9MM .COPPER",
+        "field4": null,
+        "field5": null,
+        "id": 16
+    },
+    {
+        "ITEMCODE": "ITEM CODE",
+        "Shortdescription": "Correct Description",
+        "field4": null,
+        "field5": null,
+        "id": 17
+    },
+    {
+        "ITEMCODE": "S.5999.PP03.1243",
+        "Shortdescription": "MOTORISED ACTUATOR, IQ335F16AWT, 1.63KW/IW3 (40:1), ROTORK",
+        "field4": "TBC",
+        "field5": null,
+        "id": 18
+    },
+    {
+        "ITEMCODE": "S.5999.PP03.0927",
+        "Shortdescription": "FREQUENCY CONVERTER, ACS880-07-0900A-7, ABB , HPGR",
+        "field4": "TBC",
+        "field5": null,
+        "id": 19
+    },
+    {
+        "ITEMCODE": "S.5999.PP03.0836",
+        "Shortdescription": "CONTROLLER, RF-550, FLAME/WATER PROOF ELECTRONIC CONTROLLER FOR RF/CAPACITANCE LEVEL SWITCH RF-550, EIP ENVIRO CONTROLS",
+        "field4": "TBC",
+        "field5": null,
+        "id": 20
+    },
+    {
+        "ITEMCODE": "S.5999.PP03.1362",
+        "Shortdescription": "SENSOR INDUCTIVE, NON FLUSH, M30/L=65, 8.5VDC, Sn=15, 2W NAMUR, SP8.5 S30",
+        "field4": "TBC",
+        "field5": null,
+        "id": 21
+    },
+    {
+        "ITEMCODE": "S.5999.PP03.1363",
+        "Shortdescription": "SENSOR INDUCTIVE, NON FLUSH, M30/L=65, 12VDC, Sn=15, 3W, SP12 B30",
+        "field4": "TBC",
+        "field5": null,
+        "id": 22
+    },
+    {
+        "ITEMCODE": "S.5999.PP03.1364",
+        "Shortdescription": "SENSOR INDUCTIVE, NON FLUSH, M30/L=65, 12VDC, Sn=15, 3W, SP12-SF30",
+        "field4": "TBC",
+        "field5": null,
+        "id": 23
+    },
+    {
+        "ITEMCODE": "S.5999.PP03.1365",
+        "Shortdescription": "SENSOR INDUCTIVE, NON FLUSH, M30/L=65, 12VDC, Sn=15, 3W, SP12-B60",
+        "field4": "TBC",
+        "field5": null,
+        "id": 24
+    },
+    {
+        "ITEMCODE": "ITEM CODE",
+        "Shortdescription": "Correct Description",
+        "field4": null,
+        "field5": null,
+        "id": 25
+    },
+    {
+        "ITEMCODE": "S.5999.PP03.0834",
+        "Shortdescription": "SENSOR, PR-550FLSH, RF LEVEL SWITCH SENSOR, FLUSH DISC TYPE FOR LEVEL SWITCH RF-550 MODEL, EIP ENVIRO CONTROLS",
+        "field4": "ok",
+        "field5": null,
+        "id": 26
+    },
+    {
+        "ITEMCODE": "S.5999.PP03.0835",
+        "Shortdescription": "CONTROLLER, EU-550, RF-550, ELECTRONIC CONTROLLER FOR RF/CAPACITANCE LEVEL SWITCH RF-550, EIP ENVIRO CONTROLS",
+        "field4": "ok",
+        "field5": null,
+        "id": 27
+    },
+    {
+        "ITEMCODE": "S.5999.PP03.0350",
+        "Shortdescription": "PULL CORD SWITCH, SW-4039HAFP22, JAYSHREE",
+        "field4": "correction",
+        "field5": null,
+        "id": 28
+    },
+    {
+        "ITEMCODE": "S.5999.PP03.0268",
+        "Shortdescription": "BELT SWAY SWITCH, SINGLE CAM, SW-4020TFP22, JAYSHREE",
+        "field4": "correction",
+        "field5": null,
+        "id": 29
+    },
+    {
+        "ITEMCODE": "S.5999.PP03.1412",
+        "Shortdescription": "PULL CORD SWITCH, SW-4030H22, JAYSHREE",
+        "field4": "new code",
+        "field5": null,
+        "id": 30
+    },
+    {
+        "ITEMCODE": "S.5999.PP03.1413",
+        "Shortdescription": "ZERO SPEED SWITCH, RM E211-NITD-FP, JAYSHREE",
+        "field4": "new code",
+        "field5": null,
+        "id": 31
+    },
+    {
+        "ITEMCODE": "S.5999.PP03.1414",
+        "Shortdescription": "TOGGLE LIMIT SWITCH-V-LEVER , SW-4010H22, JAYSHREE",
+        "field4": "new code",
+        "field5": null,
+        "id": 32
+    },
+    {
+        "ITEMCODE": "S.5930.PP03.0007",
+        "Shortdescription": "FLOW SWITCH, BFS20-O-G3/4-MS-WE, 2-8l/m, BARKSDALE",
+        "field4": "new code",
+        "field5": null,
+        "id": 33
+    }
+]
