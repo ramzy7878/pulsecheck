@@ -1,7 +1,7 @@
 [
     {
         "categoryid": 1,
-        "describtion": "بيف فاهيتا (240 جرام من لحم الفلتو الصافي مع الخضار )",
+        "describtion": "بيف فاهيتا ( لحم الفلتو الصافي مع الخضار )",
         "hayaaprice": 390.0,
         "icon": "fa-star-and-crescent",
         "id": 1,
@@ -14,7 +14,7 @@
     },
     {
         "categoryid": 1,
-        "describtion": "240 جرام بيف استيك بيبر صوص",
+        "describtion": "بيف استيك بيبر صوص",
         "hayaaprice": 365.0,
         "icon": "fa-star-and-crescent",
         "id": 2,
@@ -23,11 +23,11 @@
         "location": "النادي الإجتماعي",
         "mealtitle": "فاخره  2",
         "montasefprice": 400.0,
-        "notes": "يقدم مع الوجبة أرز أو مكرونة و طاجن خضار أو خضار سوتيه وشوربة  و سلطة خضراء و طحينة وعيش وعصير رمضان و بلح"
+        "notes": "240 جرام بيف استيك يقدم مع الوجبة أرز أو مكرونة و طاجن خضار أو خضار سوتيه وشوربة  و سلطة خضراء و طحينة وعيش وعصير رمضان و بلح"
     },
     {
         "categoryid": 1,
-        "describtion": "240 جرام بيف استيك تندرلاين",
+        "describtion": "بيف استيك تندرلاين",
         "hayaaprice": 385.0,
         "icon": "fa-star-and-crescent",
         "id": 3,
@@ -36,11 +36,11 @@
         "location": "النادي الإجتماعي",
         "mealtitle": "فاخره  3",
         "montasefprice": 420.0,
-        "notes": "يقدم مع الوجبة أرز أو مكرونة و طاجن خضار أو خضار سوتيه وشوربة  و سلطة خضراء و طحينة وعيش وعصير رمضان و بلح"
+        "notes": "240 جرام بيف استيك يقدم مع الوجبة أرز أو مكرونة و طاجن خضار أو خضار سوتيه وشوربة  و سلطة خضراء و طحينة وعيش وعصير رمضان و بلح"
     },
     {
         "categoryid": 1,
-        "describtion": "240 جرام بيف استيك ترنادو بصوص جريفي",
+        "describtion": "بيف استيك ترنادو بصوص جريفي",
         "hayaaprice": 375.0,
         "icon": "fa-star-and-crescent",
         "id": 4,
@@ -49,11 +49,11 @@
         "location": "النادي الإجتماعي",
         "mealtitle": "فاخره  4",
         "montasefprice": 410.0,
-        "notes": "يقدم مع الوجبة أرز أو مكرونة و طاجن خضار أو خضار سوتيه وشوربة  و سلطة خضراء و طحينة وعيش وعصير رمضان و بلح"
+        "notes": "240 جرام بيف استيك يقدم مع الوجبة أرز أو مكرونة و طاجن خضار أو خضار سوتيه وشوربة  و سلطة خضراء و طحينة وعيش وعصير رمضان و بلح"
     },
     {
         "categoryid": 1,
-        "describtion": "240 جرام بيف استيك الفونجي صوص",
+        "describtion": "بيف استيك الفونجي صوص",
         "hayaaprice": 390.0,
         "icon": "fa-star-and-crescent",
         "id": 5,
@@ -62,11 +62,11 @@
         "location": "النادي الإجتماعي",
         "mealtitle": "فاخره  5",
         "montasefprice": 430.0,
-        "notes": "يقدم مع الوجبة أرز أو مكرونة و طاجن خضار أو خضار سوتيه وشوربة  و سلطة خضراء و طحينة وعيش وعصير رمضان و بلح"
+        "notes": "240 جرام بيف استيك يقدم مع الوجبة أرز أو مكرونة و طاجن خضار أو خضار سوتيه وشوربة  و سلطة خضراء و طحينة وعيش وعصير رمضان و بلح"
     },
     {
         "categoryid": 2,
-        "describtion": "      2/1 فرخة مشوية",
+        "describtion": "نصف فرخة مشوية",
         "hayaaprice": 250.0,
         "icon": "fa-star-and-crescent",
         "id": 6,
@@ -79,7 +79,7 @@
     },
     {
         "categoryid": 2,
-        "describtion": "      2/1 فرخة رستو",
+        "describtion": "نصف فرخة رستو",
         "hayaaprice": 250.0,
         "icon": "fa-star-and-crescent",
         "id": 7,
@@ -105,7 +105,7 @@
     },
     {
         "categoryid": 2,
-        "describtion": "4/1 كيلو صدور مشوية",
+        "describtion": "ربع كيلو صدور مشوية",
         "hayaaprice": 200.0,
         "icon": "fa-star-and-crescent",
         "id": 9,
@@ -118,7 +118,7 @@
     },
     {
         "categoryid": 2,
-        "describtion": "إسكالوب 100 جرام",
+        "describtion": "إسكالوب ",
         "hayaaprice": 200.0,
         "icon": "fa-star-and-crescent",
         "id": 10,
@@ -127,11 +127,11 @@
         "location": "النادي الإجتماعي",
         "mealtitle": "عاديه  5",
         "montasefprice": 220.0,
-        "notes": "يقدم مع الوجبة أرز أو مكرونة و طاجن خضار أو خضار سوتيه وشوربة وسلطة خضراء و طحينة  وعيش وعصير رمضان و بلح"
+        "notes": "100 جرام يقدم مع الوجبة أرز أو مكرونة و طاجن خضار أو خضار سوتيه وشوربة وسلطة خضراء و طحينة  وعيش وعصير رمضان و بلح"
     },
     {
         "categoryid": 2,
-        "describtion": "3/1 كيلو كفتة مشوية",
+        "describtion": "ثلث كيلو كفتة مشوية",
         "hayaaprice": 245.0,
         "icon": "fa-star-and-crescent",
         "id": 11,
@@ -144,7 +144,7 @@
     },
     {
         "categoryid": 2,
-        "describtion": "3/1 كيلو سجق مشوي",
+        "describtion": "ثلث كيلو سجق مشوي",
         "hayaaprice": 230.0,
         "icon": "fa-star-and-crescent",
         "id": 12,
@@ -157,7 +157,7 @@
     },
     {
         "categoryid": 2,
-        "describtion": "240 جرام رب آي كلاسيك",
+        "describtion": " رب آي كلاسيك",
         "hayaaprice": 265.0,
         "icon": "fa-star-and-crescent",
         "id": 13,
@@ -166,11 +166,11 @@
         "location": "النادي الإجتماعي",
         "mealtitle": "عاديه  8",
         "montasefprice": 290.0,
-        "notes": "يقدم مع الوجبة أرز أو مكرونة و طاجن خضار أو خضار سوتيه وشوربة وسلطة خضراء و طحينة  وعيش وعصير رمضان و بلح"
+        "notes": "240 جرام رب آي يقدم مع الوجبة أرز أو مكرونة و طاجن خضار أو خضار سوتيه وشوربة وسلطة خضراء و طحينة  وعيش وعصير رمضان و بلح"
     },
     {
         "categoryid": 2,
-        "describtion": "240 جرام رب آي فاهيتا",
+        "describtion": "رب آي فاهيتا",
         "hayaaprice": 285.0,
         "icon": "fa-star-and-crescent",
         "id": 14,
@@ -179,11 +179,11 @@
         "location": "النادي الإجتماعي",
         "mealtitle": "عاديه  9",
         "montasefprice": 310.0,
-        "notes": "يقدم مع الوجبة أرز أو مكرونة و طاجن خضار أو خضار سوتيه وشوربة وسلطة خضراء و طحينة  وعيش وعصير رمضان و بلح"
+        "notes": "240 جرام رب اي يقدم مع الوجبة أرز أو مكرونة و طاجن خضار أو خضار سوتيه وشوربة وسلطة خضراء و طحينة  وعيش وعصير رمضان و بلح"
     },
     {
         "categoryid": 2,
-        "describtion": " 300 جرام ورقة سجق ",
+        "describtion": "ورقة سجق ",
         "hayaaprice": 250.0,
         "icon": "fa-star-and-crescent",
         "id": 15,
@@ -192,11 +192,11 @@
         "location": "النادي الإجتماعي",
         "mealtitle": "عاديه  10",
         "montasefprice": 275.0,
-        "notes": "يقدم مع الوجبة أرز أو مكرونة و طاجن خضار أو خضار سوتيه وشوربة وسلطة خضراء و طحينة  وعيش وعصير رمضان و بلح"
+        "notes": "300 حرام يقدم مع الوجبة أرز أو مكرونة و طاجن خضار أو خضار سوتيه وشوربة وسلطة خضراء و طحينة  وعيش وعصير رمضان و بلح"
     },
     {
         "categoryid": 2,
-        "describtion": " 240 جرام ورقة لحمة",
+        "describtion": " ورقة لحمة",
         "hayaaprice": 285.0,
         "icon": "fa-star-and-crescent",
         "id": 16,
@@ -205,11 +205,11 @@
         "location": "النادي الإجتماعي",
         "mealtitle": "عاديه  11",
         "montasefprice": 310.0,
-        "notes": "يقدم مع الوجبة أرز أو مكرونة و طاجن خضار أو خضار سوتيه وشوربة وسلطة خضراء و طحينة  وعيش وعصير رمضان و بلح"
+        "notes": "240 جرام يقدم مع الوجبة أرز أو مكرونة و طاجن خضار أو خضار سوتيه وشوربة وسلطة خضراء و طحينة  وعيش وعصير رمضان و بلح"
     },
     {
         "categoryid": 2,
-        "describtion": "240 جرام لحمة محمرة",
+        "describtion": "لحمة محمرة",
         "hayaaprice": 265.0,
         "icon": "fa-star-and-crescent",
         "id": 17,
@@ -218,11 +218,11 @@
         "location": "النادي الإجتماعي",
         "mealtitle": "عاديه  12",
         "montasefprice": 290.0,
-        "notes": "يقدم مع الوجبة أرز أو مكرونة و طاجن خضار أو خضار سوتيه وشوربة وسلطة خضراء و طحينة  وعيش وعصير رمضان و بلح"
+        "notes": "240 جرام يقدم مع الوجبة أرز أو مكرونة و طاجن خضار أو خضار سوتيه وشوربة وسلطة خضراء و طحينة  وعيش وعصير رمضان و بلح"
     },
     {
         "categoryid": 3,
-        "describtion": "      4/1 فرخة ورك مضغوط",
+        "describtion": "ربع فرخة ورك مضغوط",
         "hayaaprice": 155.0,
         "icon": "fa-star-and-crescent",
         "id": 18,
@@ -235,7 +235,7 @@
     },
     {
         "categoryid": 3,
-        "describtion": "      4/1 فرخة صدر مضغوط",
+        "describtion": "ربع فرخة صدر مضغوط",
         "hayaaprice": 165.0,
         "icon": "fa-star-and-crescent",
         "id": 19,
@@ -248,7 +248,7 @@
     },
     {
         "categoryid": 3,
-        "describtion": "      2/1 فرخة مضغوط",
+        "describtion": "نصف فرخة مضغوط",
         "hayaaprice": 240.0,
         "icon": "fa-star-and-crescent",
         "id": 20,
@@ -261,7 +261,7 @@
     },
     {
         "categoryid": 3,
-        "describtion": "      2/1 كيلو لحم مضغوط",
+        "describtion": "نصف كيلو لحم مضغوط",
         "hayaaprice": 480.0,
         "icon": "fa-star-and-crescent",
         "id": 21,
@@ -274,7 +274,7 @@
     },
     {
         "categoryid": 4,
-        "describtion": "   ربع فرخة ورك مشوي أورستو ",
+        "describtion": "ربع فرخة ورك مشوي أورستو ",
         "hayaaprice": 150.0,
         "icon": "fa-star-and-crescent",
         "id": 22,
@@ -287,7 +287,7 @@
     },
     {
         "categoryid": 4,
-        "describtion": "   ربع فرخة صدر مشوي أورستو ",
+        "describtion": "ربع فرخة صدر مشوي أورستو ",
         "hayaaprice": 160.0,
         "icon": "fa-star-and-crescent",
         "id": 23,
@@ -300,7 +300,7 @@
     },
     {
         "categoryid": 4,
-        "describtion": "3قطع استربس 150جرام",
+        "describtion": "ثلاثه قطع استربس",
         "hayaaprice": 140.0,
         "icon": "fa-star-and-crescent",
         "id": 24,
@@ -309,11 +309,11 @@
         "location": "النادي الإجتماعي",
         "mealtitle": "التوفير   3",
         "montasefprice": 155.0,
-        "notes": "يقدم مع الوجبة أرز أو مكرونة و طاجن خضار أو خضار سوتيه وشوربة وسلطة خضراء و طحينة  وعيش وعصير رمضان و بلح"
+        "notes": " 150جرام يقدم مع الوجبة أرز أو مكرونة و طاجن خضار أو خضار سوتيه وشوربة وسلطة خضراء و طحينة  وعيش وعصير رمضان و بلح"
     },
     {
         "categoryid": 4,
-        "describtion": "تشكين بانيه 100 جرام",
+        "describtion": "تشكين بانيه ",
         "hayaaprice": 140.0,
         "icon": "fa-star-and-crescent",
         "id": 25,
@@ -322,11 +322,11 @@
         "location": "النادي الإجتماعي",
         "mealtitle": "التوفير   4",
         "montasefprice": 155.0,
-        "notes": "يقدم مع الوجبة أرز أو مكرونة و طاجن خضار أو خضار سوتيه وشوربة وسلطة خضراء و طحينة  وعيش وعصير رمضان و بلح"
+        "notes": "100 جرام يقدم مع الوجبة أرز أو مكرونة و طاجن خضار أو خضار سوتيه وشوربة وسلطة خضراء و طحينة  وعيش وعصير رمضان و بلح"
     },
     {
         "categoryid": 4,
-        "describtion": "شيش طاووق 100 جرام",
+        "describtion": "شيش طاووق ",
         "hayaaprice": 130.0,
         "icon": "fa-star-and-crescent",
         "id": 26,
@@ -335,11 +335,11 @@
         "location": "النادي الإجتماعي",
         "mealtitle": "التوفير   5",
         "montasefprice": 145.0,
-        "notes": "يقدم مع الوجبة أرز أو مكرونة و طاجن خضار أو خضار سوتيه وشوربة وسلطة خضراء و طحينة  وعيش وعصير رمضان و بلح"
+        "notes": "100 جرام يقدم مع الوجبة أرز أو مكرونة و طاجن خضار أو خضار سوتيه وشوربة وسلطة خضراء و طحينة  وعيش وعصير رمضان و بلح"
     },
     {
         "categoryid": 5,
-        "describtion": "فتة بالأرز المصري + كيلو و نص لحم + 3 طاجن ملوخية",
+        "describtion": "فتة بالأرز المصري + كيلو و نص لحم + ثلاثه طاجن ملوخية",
         "hayaaprice": 1445.0,
         "icon": "fa-star-and-crescent",
         "id": 27,
@@ -352,7 +352,7 @@
     },
     {
         "categoryid": 5,
-        "describtion": " كيلو كفتة + 2/1 شيش+ ك  أرز بسمتي + 3 طاجن ملوخية",
+        "describtion": " كيلو كفتة + نصف شيش+ ك  أرز بسمتي + ثلاثه طاجن ملوخية",
         "hayaaprice": 995.0,
         "icon": "fa-star-and-crescent",
         "id": 28,
@@ -378,7 +378,7 @@
     },
     {
         "categoryid": 5,
-        "describtion": "  فرخة و نص مشوية ( 6 أربع ) + ك أرز بسمتي +3طاجن ملوخية",
+        "describtion": "  فرخة و نص مشوية ( سته أربع ) + ك أرز بسمتي +ثلاثه طاجن ملوخية",
         "hayaaprice": 850.0,
         "icon": "fa-star-and-crescent",
         "id": 30,
@@ -391,7 +391,7 @@
     },
     {
         "categoryid": 6,
-        "describtion": "فتة بالأرز المصري + كيلو لحم + 2 طاجن ملوخية",
+        "describtion": "فتة بالأرز المصري + كيلو لحم + أثنان طاجن ملوخية",
         "hayaaprice": 990.0,
         "icon": "fa-star-and-crescent",
         "id": 31,
@@ -404,7 +404,7 @@
     },
     {
         "categoryid": 6,
-        "describtion": "كيلو لحم مضغوط + ك أرز بسمتي +2طاجن ملوخية",
+        "describtion": "كيلو لحم مضغوط + ك أرز بسمتي + أثنان طاجن ملوخية",
         "hayaaprice": 990.0,
         "icon": "fa-star-and-crescent",
         "id": 32,
@@ -417,7 +417,7 @@
     },
     {
         "categoryid": 6,
-        "describtion": " 4/1 كفتة  + 4/1 شيش + 4/1سجق + 4/1 ممبار + ك أرز بسمتي + 2 طاجن ملوخية",
+        "describtion": " ربع كفتة  + ربع شيش + ربع سجق + ربع ممبار + ك أرز بسمتي + أثنان طاجن ملوخية",
         "hayaaprice": 700.0,
         "icon": "fa-star-and-crescent",
         "id": 33,
@@ -430,7 +430,7 @@
     },
     {
         "categoryid": 6,
-        "describtion": "كيلو كفتة + ك أرز بسمتي +2طاجن ملوخية",
+        "describtion": "كيلو كفتة + ك أرز بسمتي +أثنان طاجن ملوخية",
         "hayaaprice": 720.0,
         "icon": "fa-star-and-crescent",
         "id": 34,
@@ -443,7 +443,7 @@
     },
     {
         "categoryid": 6,
-        "describtion": "  فرخة مضغوط + ك أرز بسمتي +2طاجن ملوخية",
+        "describtion": "  فرخة مضغوط + ك أرز بسمتي +أثنان طاجن ملوخية",
         "hayaaprice": 620.0,
         "icon": "fa-star-and-crescent",
         "id": 35,
@@ -456,7 +456,7 @@
     },
     {
         "categoryid": 6,
-        "describtion": "  فرخة مشوية ( 4 أربع ) + ك أرز بسمتي +2طاجن ملوخية",
+        "describtion": "  فرخة مشوية ( أربعه أربع ) + ك أرز بسمتي +أثنان طاجن ملوخية",
         "hayaaprice": 610.0,
         "icon": "fa-star-and-crescent",
         "id": 36,
@@ -469,7 +469,7 @@
     },
     {
         "categoryid": 7,
-        "describtion": "      4/1 فرخة مشوية ورك + 1/8 كفتة ",
+        "describtion": "ربع فرخة مشوية ورك + ثمن كفتة ",
         "hayaaprice": 210.0,
         "icon": "fa-star-and-crescent",
         "id": 37,
@@ -482,7 +482,7 @@
     },
     {
         "categoryid": 7,
-        "describtion": "      4/1 فرخة مشوية صدر + 1/8 كفتة ",
+        "describtion": "ربع فرخة مشوية صدر + ثمن كفتة ",
         "hayaaprice": 220.0,
         "icon": "fa-star-and-crescent",
         "id": 38,
@@ -495,7 +495,7 @@
     },
     {
         "categoryid": 7,
-        "describtion": "      4/1 فرخة مشوية ورك + 1/8 سجق",
+        "describtion": "ربع فرخة مشوية ورك + ثمن سجق",
         "hayaaprice": 210.0,
         "icon": "fa-star-and-crescent",
         "id": 39,
@@ -508,7 +508,7 @@
     },
     {
         "categoryid": 7,
-        "describtion": "      4/1 فرخة مشوية صدر + 1/8 سجق",
+        "describtion": "ربع فرخة مشوية صدر + ثمن سجق",
         "hayaaprice": 220.0,
         "icon": "fa-star-and-crescent",
         "id": 40,
@@ -521,7 +521,7 @@
     },
     {
         "categoryid": 7,
-        "describtion": "      4/1 شيش طاووق + 1/8 كفتة",
+        "describtion": "ربع شيش طاووق + ثمن كفتة",
         "hayaaprice": 225.0,
         "icon": "fa-star-and-crescent",
         "id": 41,
@@ -534,7 +534,7 @@
     },
     {
         "categoryid": 7,
-        "describtion": "      4/1 شيش طاووق + 1/8 سجق",
+        "describtion": "ربع شيش طاووق + ثمن سجق",
         "hayaaprice": 225.0,
         "icon": "fa-star-and-crescent",
         "id": 42,
@@ -547,7 +547,7 @@
     },
     {
         "categoryid": 7,
-        "describtion": "قطعة بانيه 100 جرام + 1/8 كفتة",
+        "describtion": "قطعة بانيه  + ثمن كفتة",
         "hayaaprice": 180.0,
         "icon": "fa-star-and-crescent",
         "id": 43,
@@ -556,11 +556,11 @@
         "location": "النادي الإجتماعي",
         "mealtitle": "مكسات  (7)",
         "montasefprice": 195.0,
-        "notes": "يقدم مع الوجبة أرز أو مكرونة و طاجن خضار أو خضار سوتيه وشوربة وسلطة خضراء و طحينة  وعيش وعصير رمضان و بلح"
+        "notes": "100 جرام بانبه يقدم مع الوجبة أرز أو مكرونة و طاجن خضار أو خضار سوتيه وشوربة وسلطة خضراء و طحينة  وعيش وعصير رمضان و بلح"
     },
     {
         "categoryid": 7,
-        "describtion": "      4/1 فرخة مشوية ورك + 1/8 كفتة + 1/8 سجق",
+        "describtion": "ربع فرخة مشوية ورك + ثمن كفتة + ثمن سجق",
         "hayaaprice": 290.0,
         "icon": "fa-star-and-crescent",
         "id": 44,
@@ -573,7 +573,7 @@
     },
     {
         "categoryid": 7,
-        "describtion": "      4/1 فرخة مشوية صدر+ 1/8 كفتة + 1/8 سجق",
+        "describtion": "ربع فرخة مشوية صدر+ثمن كفتة + ثمن سجق",
         "hayaaprice": 300.0,
         "icon": "fa-star-and-crescent",
         "id": 45,
@@ -586,7 +586,7 @@
     },
     {
         "categoryid": 7,
-        "describtion": "      3/1 كباب مشكل ( لحم فلتو + كفتة )",
+        "describtion": "ثلث كباب مشكل ( لحم فلتو + كفتة )",
         "hayaaprice": 380.0,
         "icon": "fa-star-and-crescent",
         "id": 46,
@@ -599,7 +599,7 @@
     },
     {
         "categoryid": 8,
-        "describtion": "فرخة مشوية من 1300-1400",
+        "describtion": "فرخة مشوية",
         "hayaaprice": 350.0,
         "icon": "fa-star-and-crescent",
         "id": 47,
@@ -608,7 +608,7 @@
         "location": "النادي الإجتماعي",
         "mealtitle": "مشويات  (1)",
         "montasefprice": 385.0,
-        "notes": "الوجبة تقدم بالصالة بحد أقصى 4 أفراد\t\t\t\nيقدم معها  2سلطة خضراء + 2 سلطة طحينة + 4 أرغفة  عيش\t\t\t\n"
+        "notes": "الفرخه من  1300-1400 جرام الوجبة  بتقدمالصالة بحد أقصى 4 أفراد\t\t\t\nيقدم معها  2سلطة خضراء + 2 سلطة طحينة + 4 أرغفة  عيش\t\t\t\n"
     },
     {
         "categoryid": 8,
@@ -638,7 +638,7 @@
     },
     {
         "categoryid": 8,
-        "describtion": "كيلو ميكس جريل( 2/1 فرخة + 4/1 كفتة + 4/1 سجق )",
+        "describtion": "كيلو ميكس جريل( نصف فرخة + ربع كفتة + ربع سجق )",
         "hayaaprice": 420.0,
         "icon": "fa-star-and-crescent",
         "id": 50,
@@ -651,7 +651,7 @@
     },
     {
         "categoryid": 8,
-        "describtion": "كيلو كباب مشكل (  2/1 لحم فلتو + 2/1 كفتة )",
+        "describtion": "كيلو كباب مشكل (  نصف لحم فلتو + نصف كفتة )",
         "hayaaprice": 940.0,
         "icon": "fa-star-and-crescent",
         "id": 51,
