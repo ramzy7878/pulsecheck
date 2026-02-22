@@ -76,5 +76,11 @@
         "id": 13,
         "name": "الإضافات",
         "undericon": "ramadan kareiem"
+    },
+    {
+        "icon": "fa-star-and-crescent",
+        "id": 14,
+        "name": "عرض الأسبوع",
+        "undericon": "من الأحد 22/2/2026 الي الأحد 1/3/2026"
     }
 ]

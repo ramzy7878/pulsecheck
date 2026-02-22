@@ -1324,5 +1324,57 @@
         "mealtitle": "عيش",
         "montasefprice": 3.0,
         "notes": ""
+    },
+    {
+        "categoryid": 14,
+        "describtion": " نص كفتة  + نص شيش + نص سجق + ك محشي كرنب + أربعه سمبوسك جبنة + أربعه سمبوسك لحم",
+        "hayaaprice": 850.0,
+        "icon": "fa-star-and-crescent",
+        "id": 108,
+        "image": "https://raw.githubusercontent.com/ramzy7878/pulsecheck/refs/heads/main/ramadan/esboay/1.png",
+        "kharegyprice": 950.0,
+        "location": "النادي الإجتماعي",
+        "mealtitle": "العرض الأول",
+        "montasefprice": 935.0,
+        "notes": null
+    },
+    {
+        "categoryid": 14,
+        "describtion": " نص كفتة  + نص شيش + نص سجق + ك محشي مشكل ( كوسة - بذنجان - فلفل ) + أربعه سمبوسك جبنة + أربعه سمبوسك لحم",
+        "hayaaprice": 850.0,
+        "icon": "fa-star-and-crescent",
+        "id": 109,
+        "image": "https://raw.githubusercontent.com/ramzy7878/pulsecheck/refs/heads/main/ramadan/esboay/2.png",
+        "kharegyprice": 950.0,
+        "location": "النادي الإجتماعي",
+        "mealtitle": "العرض الثاني",
+        "montasefprice": 935.0,
+        "notes": null
+    },
+    {
+        "categoryid": 14,
+        "describtion": "كيلو كفتة + ك محشي كرنب + ك محشي مشكل ( كوسة - بذنجان - فلفل )",
+        "hayaaprice": 750.0,
+        "icon": "fa-star-and-crescent",
+        "id": 110,
+        "image": "https://raw.githubusercontent.com/ramzy7878/pulsecheck/refs/heads/main/ramadan/esboay/3.png",
+        "kharegyprice": 850.0,
+        "location": "النادي الإجتماعي",
+        "mealtitle": "العرض الثالث",
+        "montasefprice": 825.0,
+        "notes": null
+    },
+    {
+        "categoryid": 14,
+        "describtion": "  فرخة مشوية  + ك محشي كرنب + ك محشي مشكل( كوسة - بذنجان - فلفل )",
+        "hayaaprice": 620.0,
+        "icon": "fa-star-and-crescent",
+        "id": 111,
+        "image": "https://raw.githubusercontent.com/ramzy7878/pulsecheck/refs/heads/main/ramadan/esboay/4.png",
+        "kharegyprice": 700.0,
+        "location": "النادي الإجتماعي",
+        "mealtitle": "العرض الرابع",
+        "montasefprice": 680.0,
+        "notes": null
     }
 ]
