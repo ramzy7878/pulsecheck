@@ -1,0 +1,41 @@
+[
+    {
+        "button": null,
+        "clubname": "النادي الإجتماعي",
+        "date": "حتي 1/3/2026",
+        "discription": "عرض أسبوعي من النادي الإجتماعي بخصوص وجبات عليها عرض في الفتره من 22/2/2026 الي 1/3/2026",
+        "icon": null,
+        "id": 1,
+        "photourl": "https://raw.githubusercontent.com/ramzy7878/pulsecheck/refs/heads/main/news/3.jpg",
+        "subtitle": "offer",
+        "timestamp": "1771753735000",
+        "title": "عرض أسبوعي",
+        "videourl": null
+    },
+    {
+        "button": null,
+        "clubname": "النادي الرياضي",
+        "date": "23/2/2026",
+        "discription": "بدايه الدوره الرمضانيه",
+        "icon": null,
+        "id": 2,
+        "photourl": "https://raw.githubusercontent.com/ramzy7878/pulsecheck/refs/heads/main/news/1.jpg",
+        "subtitle": "مسابقه",
+        "timestamp": " 1771840135000",
+        "title": "الدوره الرمضانيه",
+        "videourl": null
+    },
+    {
+        "button": null,
+        "clubname": "نادي اليخت و التجديف",
+        "date": "25/2/2026",
+        "discription": "بدايه مسابقه صاحبك القرأن",
+        "icon": null,
+        "id": 3,
+        "photourl": "https://raw.githubusercontent.com/ramzy7878/pulsecheck/refs/heads/main/news/2.jpg",
+        "subtitle": "مسابقه",
+        "timestamp": "1772012935000",
+        "title": "مسابقه صاحبك القرأن",
+        "videourl": null
+    }
+]
